@@ -1,0 +1,4 @@
+ada 7 easyUI crud di sini (untuk master data saja)
+yakni:
+siswa,guru,kelas,mapel
+tingkat,semester,tahun
